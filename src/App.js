@@ -37,30 +37,30 @@ function App() {
         <div className="left-sidebar flex flex-col justify-around flex-none">
           <div className="top">
             <div>
-              <DashboardIcon className="text-slate-500 w-6 h-6 my-3" />
+              <DashboardIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <NotificationsActiveIcon className="text-slate-500 w-6 h-6 my-3" />
+              <NotificationsActiveIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <BookmarkBorderIcon className="text-slate-500 w-6 h-6 my-3" />
+              <BookmarkBorderIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <PeopleAltIcon className="text-slate-500 w-6 h-6 my-3" />
+              <PeopleAltIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <SettingsIcon className="text-slate-500 w-6 h-6 my-3" />
+              <SettingsIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <ShoppingCartIcon className="text-slate-500 w-6 h-6 my-3" />
+              <ShoppingCartIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
           </div>
           <div className="bottom mt-16">
             <div>
-              <PeopleAltIcon className="text-slate-500 w-6 h-6 my-3" />
+              <PeopleAltIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
             <div>
-              <LogoutIcon className="text-slate-500 w-6 h-6 my-3" />
+              <LogoutIcon className="text-[#0D276B] w-6 h-6 my-3" />
             </div>
           </div>
         </div>
